@@ -62,8 +62,8 @@ Created indexes to optimize query performance.
 - day1_queries.sql
 - olist_customers_dataset.csv
 - olist_orders_dataset.csv
-- olist_order_items_dataset.csv
-- olist_products_dataset.csv
+- olist_order_items_dataset.csv(large file not uploaded)
+- olist_products_dataset.csv(large file not uploaded)
 - Screenshots of query outputs
 
 ## Sample Queries
